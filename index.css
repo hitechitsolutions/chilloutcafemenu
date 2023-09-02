@@ -18,7 +18,7 @@ body.portal {
 }
 
 img{
-
+padding: 1px 0;
     width: 100%;
 }
 
@@ -26,6 +26,11 @@ img{
     display: grid;
     width: 100%;
     height: fit-content;
+}
+#pageStart{
+    display: block;
+    width: 100%;
+    height: 100%;
 }
 #page1{
     display: block;
@@ -53,6 +58,21 @@ img{
     height: 100%;
 }
 #page6{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+#page7{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+#page8{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+#page9{
     display: block;
     width: 100%;
     height: 100%;
